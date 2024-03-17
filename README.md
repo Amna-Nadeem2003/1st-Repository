@@ -1,2 +1,4 @@
 # 1st-Repository
-This is my first Github repository.
+This is our first Github repository.
+<br>
+Authors: Waleed Khan, Amna Nadeem, Hira Absar
